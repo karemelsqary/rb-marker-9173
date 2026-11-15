@@ -1,0 +1,3 @@
+TEXTBACK-PROOF-9173
+{"cluster_name":"marker-test","version":{"number":"9173.0.0"},"markertext":"TEXTBACK-PROOF-9173"}
+role-name-line: TEXTBACK-PROOF-9173
